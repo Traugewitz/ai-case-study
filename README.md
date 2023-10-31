@@ -37,7 +37,7 @@ For example, Gro has created models on how the African swine fever impacted the 
 Back to the mission of the company, though, the company also works with governments around the world on food-security issues, to help them adequately plan for reserves.[^6] 
 
 * *Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)*
-* 
+  
 Gro uses publically available datasets, the scale and quality of the data (satellite or ground-based, environmental or socio-economic, supply-side or demand-side) make it ideal for machine learning.[^7]  Gro states that satellite-remote sensing provides most of our geospatial data sources at Gro, but also offers direct observations from sources like NOAA's Global Historical Climatology Network (GHCN) weather stations, which measure precipitation and temperature. The use of satellite imaging, drones, GIS that can monitor, measure and store training data on various metrics in real time, the use of robotics to solve labor shortages
 
 ## Landscape
@@ -47,7 +47,7 @@ Gro uses publically available datasets, the scale and quality of the data (satel
 Gro is primarily in the field of Agriculture with an emphasis on socio-economic consequences impacting agriculture's ecological journies, whether these be man-made or naturally occuring events.  The AI field is machine learning for time series forecasting, deep learning because it is analyzing data from various sources, such as satellite imagery, weather sensors, and soil sensors. They provide valuable insights for crop management, disease detection, irrigation scheduling, and yield prediction, leading to more efficient and sustainable agricultural practices.
 
 * *What have been the major trends and innovations of this field over the last 5 - 10 years?*
-* 
+  
 Agriculture, as a natural science, has historically been a data rich environment.  However, only in the last few decades has there been any serious attempt to capture this metadata which is spread out amongst many segregated platforms. The United States, through agencies such as the USDA, NRCS, and ARS collect data, cleans it, then releases it in a datasheet. **If** analysis is done, it is primarily through staff economists.  Additionally, globally, the World Food Bank, and the Food and Agricultural Organizaton (FAO), have come together with individual countries to attempt to harmonize data so that they can help predict food (grains) supply and trade.
 In the last 5-10 years, there has been little movement in the agricultural sector to merge these available data sets. Though Agriculture uses AI to monitor crops on individual grower fields, drive tractors, e.g, conglomerating, harvesting, analyzying this data into one central area is rare.  On a side note, I find it interesting that Gro Intelligence was founded 1 year after Monsanto bought Climate Corp, a similar company focused only on weather patterns for roughly $1.1B
 
@@ -87,14 +87,13 @@ With my limited knowledge, I do not have any recommendations to give this compan
 
 
 
-
-[^1] [Gro Intelligence: Accounting for climate change](https://time.com/collection/time100-companies/5950007/gro-intelligence/)
-[^2] [Gro Intelligence: Accounting for climate change](https://time.com/collection/time100-companies/5950007/gro-intelligence/)
-[^3](https://www.gro-intelligence.com/)
-[^4]([How Sara Menker is Forecasting Supply Chain Disruption and Helping Businesses Plan Ahead](https://www.fastcompany.com/90779689/)
-[^5]([How Sara Menker is Forecasting Supply Chain Disruption and Helping Businesses Plan Ahead](https://www.fastcompany.com/90779689/)
-[^6]([How Sara Menker is Forecasting Supply Chain Disruption and Helping Businesses Plan Ahead](https://www.fastcompany.com/90779689/)
-[^7][Gro Intelligence, Providing actionable insights across agriculture, climate, and business](https://www.dcvc.com/companies/gro-intelligence/)
+[^1]:[Gro Intelligence: Accounting for climate change](https://time.com/collection/time100-companies/5950007/gro-intelligence/)    
+[^2]:[Gro Intelligence: Accounting for climate change](https://time.com/collection/time100-companies/5950007/gro-intelligence/)     
+[^3]:[Gro Intelligence Website](https://grow-intelligence.com)          
+[^4]:[How Sara Menker is Forecasting Supply Chain Disruption and Helping Businesses Plan Ahead](https://www.fastcompany.com/90779689/)    
+[^5]:[How Sara Menker is Forecasting Supply Chain Disruption and Helping Businesses Plan Ahead](https://www.fastcompany.com/90779689/)    
+[^6]:[How Sara Menker is Forecasting Supply Chain Disruption and Helping Businesses Plan Ahead](https://www.fastcompany.com/90779689/)    
+[^7]:[Gro Intelligence, Providing actionable insights across agriculture, climate, and business](https://www.dcvc.com/companies/gro-intelligence/)    
 
 
 
