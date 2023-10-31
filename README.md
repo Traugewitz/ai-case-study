@@ -68,7 +68,7 @@ In the same vane, Gro is disrupting the landscape by replicating this idea, thou
 * *What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics? How is your company performing relative to competitors in the same field?*
   
 There are a few minor companies in the agricultural-data conglomeration space but none that have done the scale of data collecting, analzying, and predicting as Gro Intelligence.  Gro is definitely the front runner in this field.  As a privately funded company, revenues are not publically stated, however, given that Gro Intelligence was selected as a technology pioneer by World Economic Forum in 2021 as well as Time Magazine naming Gro on their Top 100 Most Influential Companies, and then using Climate Corp's acquisition into Monsanto for over $1B, I believe all of these are strong indicators that Gro Intelligence will be incredibly successful financially.  
-> #### Data (Knowledge) is Power.
+> #### As the saying goes, "Knowledge (Data) is Power."
 
 ## Recommendations
 
